@@ -1,0 +1,115 @@
+p{
+    color: black;
+    font-family: tahoma;
+}
+
+p>span{
+    color: rgb(0, 255, 55)
+    
+}
+
+p>span{
+    font-family: fantasy;
+}
+
+    b{
+        background-color: ;
+        color: green;
+    }
+
+h3{
+color: blue;
+}
+
+*{
+    font-family: Arial;
+}
+
+.TULIS{
+    font-family: serif;
+    font-size: 22px;
+}
+
+div{
+    border-style: inset;
+}
+.box1{
+    height: 200px;
+    width: 300px;
+    background-color:;
+    color: black;
+}
+
+body{
+    background-color: white ;
+}
+.halaman{
+    color: black;
+}
+
+
+.header{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+.header-title{
+    color: white;
+    font-size: 0,8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.container{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+.header-1{
+    color: white;
+    font-size: 0,8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.test{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.subejek{
+    color: white;
+    font-size: 0,8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+.box-credit{
+    font-size: 11px;
+    justify-content: center;
+    display: flex;
+}
+.penulis{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    padding: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+}
+table{
+    width: 1px;
+    border-spacing: 10px;
+}
+th{
+   border-top: 1px solid orange;
+   border-bottom: 1px solid orange;
+}
+tr:hover{
+    background-color: aqua;
+}
